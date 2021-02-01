@@ -75,4 +75,4 @@ email: ""
 highlight_name: true
 ---
 
-Stephanie is a Ph.D. candidate who takes joy in deriving stories from data. For her doctoral dissertation, she examined phytoplankton ecology and the abiotic factors that shape microbial communities. She employed experimental, molecular, and modeling approaches to investigate the role of environmental variables, such as temperature and nutrients, in phytoplankton physiology, community structure, and biogeography. 
+Stephanie is a Ph.D. candidate who derives stories from data. For her doctoral dissertation, she examined phytoplankton ecology and the abiotic factors that shape microbial communities. She employed experimental, molecular, and modeling approaches to investigate the role of environmental variables, such as temperature and nutrients, in phytoplankton physiology, community structure, and biogeography. 
