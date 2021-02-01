@@ -9,24 +9,25 @@
   weight = 10
 
 [[main]]
-  name = "Posts"
-  url = "#posts"
-  weight = 20
+  name = "Projects"  # Title of the link.
+  url = "project/"  # Widget Page folder name.
+  weight = 20  # Position of the link in the navigation bar.
 
 [[main]]
-  name = "Projects"
-  url = "#projects"
-  weight = 30
+  name = "Publications"  # Title of the link.
+  url = "publication/"  # Widget Page folder name.
+  weight = 30  # Position of the link in the navigation bar.
+
+#[[main]]
+#  name = "Posts"  # Title of the link.
+#  url = "post/"  # Widget Page folder name.
+#  weight = 40  # Position of the link in the navigation bar.
 
 [[main]]
-  name = "Talks"
-  url = "#talks"
-  weight = 40
-
-[[main]]
-  name = "Publications"
-  url = "#featured"
-  weight = 50
+  name = "CV"  # Title of the link.
+  url = "files/Anderson_CV_Jun2020.pdf" 
+  weight = 50  # Position of the link in the navigation bar.
+  
 
 [[main]]
   name = "Contact"

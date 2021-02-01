@@ -1,7 +1,7 @@
 ---
 title: Publications
 cms_exclude: true
-
+type: "widget_page"
 # View.
 #   1 = List
 #   2 = Compact
@@ -12,5 +12,5 @@ view: 4
 # Optional header image (relative to `static/media/` folder).
 header:
   caption: ""
-  image: ""
+  image: "Phytoplankton_onblack.jpg"
 ---

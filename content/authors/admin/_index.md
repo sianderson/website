@@ -1,39 +1,39 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Stephanie I. Anderson
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Ph.D. Candidate, Oceanography
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: University of Rhode Island
+  url: https://web.uri.edu/gso/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+#bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Data Science
+- Modeling
+- Trait-based ecology
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
+  - course: PhD in Oceanography
+    institution: University of Rhode Island
+    year: 2021
+  - course: Single Subject Teaching Credential
+    institution: Loyola Marymount University
+    year: 2013
+  - course: BA Molecular, Cellular & Developmental Biology
+    institution: University of Colorado Boulder
     year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -43,18 +43,23 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '/#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+- icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Stephanie_Anderson22?ev=hdr_xprf&_sg=fpsiyqRSc31wKJi7hf1-JbqQwqgJbXyhkDtvuCXkiyhhyNRWM_uIovyCGl1mlJJzNbelOxLPXbNLO5ZwgS7AYJ6d
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/sianderson
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link:  https://www.linkedin.com/in/stephanieianderson/
+- icon: instagram
+  icon_pack: fab
+  link: https://www.instagram.com/cellsofglass/
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/CellsOfGlass
+
+background-image: DM_Cdeb.jpg
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -67,11 +72,7 @@ social:
 email: ""
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+Stephanie is a Ph.D. candidate who takes joy in deriving stories from data. For her doctoral dissertation, she examined phytoplankton ecology and the abiotic factors that shape microbial communities. She employed experimental, molecular, and modeling approaches to investigate the role of environmental variables, such as temperature and nutrients, in phytoplankton physiology, community structure, and biogeography. 
