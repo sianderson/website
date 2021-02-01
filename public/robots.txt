@@ -1,3 +1,0 @@
-User-agent: *
-
-Sitemap: https://sianderson.netlify.app/sitemap.xml
