@@ -36,4 +36,5 @@ publication: '*Limnology and Oceanography*'
 doi: 10.1002/lno.11430
 links:
 url_dataset: https://www.bco-dmo.org/project/712787
+url_code: https://github.com/sianderson/variability_thermal_limits
 ---

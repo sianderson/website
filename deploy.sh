@@ -26,3 +26,6 @@ git push origin master
 
 # Come Back up to the Project Root
 cd ..
+
+# if not working, try $hugo mod clean
+# Deletes the Hugo Module cache for the current project.
