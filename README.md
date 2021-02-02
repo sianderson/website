@@ -1,37 +1,23 @@
-<p align="center"><a href="https://wowchemy.com" target="_blank" rel="noopener"><img src="https://wowchemy.com/img/logo_200px.png" alt="Wowchemy Website Builder"></a></p>
+# Academic Template
 
-# Academic Template for [Hugo](https://github.com/gohugoio/hugo)
+The code here is used to generate [sianderson.github.io](https://sianderson.github.io).
 
-The Hugo **Academic Resumé Template** empowers you to create your job-winning online resumé and showcase your academic publications.
+## Notes on Template
+ 
+ This site was created using [**Wowchemy**](https://wowchemy.com). [**Wowchemy**](https://wowchemy.com) makes it easy to create a beautiful website for free. Edit your site in Markdown, Jupyter, or RStudio (via Blogdown), generate it with Hugo, and deploy with GitHub or Netlify. Customize anything on your site with widgets, themes, and language packs.
 
-[Check out the latest demo](https://academic-demo.netlify.app) of what you'll get in less than 10 minutes, or [view the showcase](https://wowchemy.com/user-stories/).
+**Academic** is a framework to help you create a beautiful website quickly. Perfect for personal, student, or academic websites. [Check out the latest demo](https://themes.gohugo.io/theme/academic/) of what you'll get in less than 10 minutes or [view the documentation](https://sourcethemes.com/academic/docs/).
 
-[**Wowchemy**](https://wowchemy.com) makes it easy to create a beautiful website for free. Edit your site in Markdown, Jupyter, or RStudio (via Blogdown), generate it with Hugo, and deploy with GitHub or Netlify. Customize anything on your site with widgets, themes, and language packs.
+**Academic Kickstart** provides a minimal template to kickstart your new website by following the simple steps below.
 
-- 👉 [**Get Started**](https://wowchemy.com/templates/)
-- 📚 [View the **documentation**](https://wowchemy.com/docs/)
-- 💬 [Chat with the **Wowchemy community**](https://discord.gg/z8wNYzb) or [**Hugo community**](https://discourse.gohugo.io)
-- 🐦 Twitter: [@wowchemy](https://twitter.com/wowchemy) [@GeorgeCushen](https://twitter.com/GeorgeCushen) [#MadeWithWowchemy](https://twitter.com/search?q=(%23MadeWithWowchemy%20OR%20%23MadeWithAcademic)&src=typed_query)
-- 💡 [Request a **feature** or report a **bug** for _Wowchemy_](https://github.com/wowchemy/wowchemy-hugo-modules/issues)
-- ⬆️ **Updating Wowchemy?** View the [Update Guide](https://wowchemy.com/docs/guide/update/) and [Release Notes](https://wowchemy.com/updates/)
+[![Screenshot](https://raw.githubusercontent.com/gcushen/hugo-academic/master/academic.png)](https://github.com/gcushen/hugo-academic/)
 
-## Crowd-funded open-source software
+## License
 
-To help us develop this template and software sustainably under the MIT license, we ask all individuals and businesses that use it to help support its ongoing maintenance and development via sponsorship.
+Copyright 2017 [George Cushen](https://georgecushen.com).
 
-### [❤️ Click here to unlock rewards with sponsorship](https://wowchemy.com/plans/)
+Released under the [MIT](https://github.com/sourcethemes/academic-kickstart/blob/master/LICENSE.md) license.
 
-## Ecosystem
-
-* **[Hugo Academic CLI](https://github.com/wowchemy/hugo-academic-cli):** Automatically import publications from BibTeX
-
-[![Screenshot](https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/master/academic.png)](https://wowchemy.com)
-
-## Demo image credits
-
-- [Open book](https://unsplash.com/photos/J4kK8b9Fgj8)
-- [Course](https://unsplash.com/photos/JKUTrJ4vK00)
-
-<!--
-[![Analytics](https://ga-beacon.appspot.com/UA-78646709-2/starter-academic/readme?pixel)](https://github.com/igrigorik/ga-beacon)
--->
+## Useful Resources
+- [Guide](https://www.dsquintana.blog/create-an-academic-website-free-easy-2020/) to creating site using [Wowchemy](https://wowchemy.com)
+- [Instructions](https://gohugo.io/hosting-and-deployment/hosting-on-github/) for hosting on GitHub
