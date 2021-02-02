@@ -1,6 +1,6 @@
 ---
 title: Thermal Traits
-summary: Characterizing the phytoplankton thermal response and employing empiral data in ecological simulations and global projections
+summary: Characterizing the phytoplankton thermal response and employing empirical data in ecological simulations and global projections
 tags:
 - Temperature
 - Trait-based ecology
