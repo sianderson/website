@@ -6,7 +6,7 @@ title: Stephanie I. Anderson
 superuser: true
 
 # Role/position/tagline
-role: Ph.D. Candidate, Oceanography
+role: Post-doctoral Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -19,8 +19,10 @@ organizations:
 # Interests to show in About widget
 interests:
 - Data Science
-- Modeling
 - Trait-based ecology
+- Thermal adaptation
+- Ecological modeling
+- Story-telling
 
 # Education to show in About widget
 education:
@@ -75,4 +77,4 @@ email: ""
 highlight_name: true
 ---
 
-Stephanie is a Ph.D. candidate who derives stories from data. For her doctoral dissertation, she examined phytoplankton ecology and the abiotic factors that shape microbial communities. She employed experimental, molecular, and modeling approaches to investigate the role of environmental variables, such as temperature and nutrients, in phytoplankton physiology, community structure, and biogeography. 
+I am an microbial ecologist who derives stories from data. For my doctoral dissertation with <a href="https://web.uri.edu/rynearson-lab/">Dr. Tatiana Rynearson</a>, I examined the abiotic factors that shape phytoplankton communities. I employed experimental, molecular, and modeling approaches to investigate the role of temperature in driving phytoplankton physiology, community structure, and biogeography. 

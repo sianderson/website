@@ -23,7 +23,7 @@ links:
 #  icon_pack: fab
 #  name: Follow
 #  url: https://twitter.com/georgecushen
-url_code: "https://github.com/sianderson/PFT_thermal_response"
+url_code: "https://github.com/sianderson/variability_thermal_limits"
 url_dataset: "https://www.bco-dmo.org/project/712787"
 url_pdf: ""
 url_slides: ""
