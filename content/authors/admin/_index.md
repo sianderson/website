@@ -67,13 +67,14 @@ background-image: DM_Cdeb.jpg
 # and uncomment the lines below.
 # - icon: cv
 #   icon_pack: ai
-#   link: media/resume.pdf
+#   link: Anderson_CV_Sept2021.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
+highlight_superuser: true
 ---
 
 I am a  <a href="https://www.simonsfoundation.org/grant/simons-postdoctoral-fellowships-in-marine-microbial-ecology/">Simons Foundation Postdoctoral Fellow in Marine Microbial Ecology</a> at the <a href="https://web.mit.edu/">Massachusetts Institute of Technology</a>. I work under the direction of <a href="http://ocean.mit.edu/~stephd/">Dr. Stephanie Dutkiewicz</a> examining phytoplankton thermal trait diffferentiation and evolution.
