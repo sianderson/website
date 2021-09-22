@@ -6,19 +6,18 @@ title: Stephanie I. Anderson
 superuser: true
 
 # Role/position/tagline
-role: Post-doctoral Researcher
+role: Simons Foundation Postdoctoral Fellow
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: University of Rhode Island
-  url: https://web.uri.edu/gso/
+- name: Massachusetts Institute of Technology
+  url: https://web.mit.edu/
 
 # Short bio (displayed in user profile at end of posts)
 #bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
-- Data Science
 - Trait-based ecology
 - Thermal adaptation
 - Ecological modeling
@@ -77,4 +76,6 @@ email: ""
 highlight_name: true
 ---
 
-I am an microbial ecologist who derives stories from data. For my doctoral dissertation with <a href="https://web.uri.edu/rynearson-lab/">Dr. Tatiana Rynearson</a>, I examined the abiotic factors that shape phytoplankton communities. I employed experimental, molecular, and modeling approaches to investigate the role of temperature in driving phytoplankton physiology, community structure, and biogeography. 
+I am a  <a href="https://www.simonsfoundation.org/grant/simons-postdoctoral-fellowships-in-marine-microbial-ecology/">Simons Foundation Postdoctoral Fellow in Marine Microbial Ecology</a> at the <a href="https://web.mit.edu/">Massachusetts Institute of Technology</a>. I work under the direction of <a href="http://ocean.mit.edu/~stephd/">Dr. Stephanie Dutkiewicz</a> examining phytoplankton thermal trait diffferentiation and evolution.
+
+For my doctoral dissertation with <a href="https://web.uri.edu/rynearson-lab/">Dr. Tatiana Rynearson</a> at the <a href="https://web.uri.edu/gso/">University of Rhode Island Graduate School of Oceanography</a>, I examined the abiotic factors that shape phytoplankton communities. I employed experimental, molecular, and modeling approaches to investigate the role of temperature in driving phytoplankton physiology, community structure, and biogeography. 

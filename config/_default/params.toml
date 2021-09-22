@@ -26,7 +26,7 @@ font = "Native"
 
 # Choose a font size.
 # Sizes: XS (extra small), S (small), M (medium), L (large - DEFAULT), XL (extra large)
-font_size = "L"
+font_size = "M"
 
 ############################
 ## Basic Info
@@ -88,15 +88,15 @@ show_related = {book = true, page = false, post = true, project = true, publicat
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "sianderson@uri.edu"
+email = "siander@mit.edu"
 #phone = "888 888 88 88"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "215 S. Ferry Rd.", city = "Narragansett", region = "RI", postcode = "02882", country = "United States", country_code = "US"}
+address = {street = "Green Bldg", city = "Cambridge", region = "MA", postcode = "02142", country = "United States", country_code = "US"}
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "41.49251", longitude = "-71.42231"}
+coordinates = {latitude = "42.3604792261367", longitude = "-71.08933089526391"}
 
 # Directions for visitors to locate you.
 #directions = "Enter Building 1 and take the stairs to Office 200 on Floor 2"
