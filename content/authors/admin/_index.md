@@ -26,13 +26,13 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Oceanography
+  - course: Ph.D. Oceanography
     institution: University of Rhode Island
     year: 2021
   - course: Single Subject Teaching Credential
     institution: Loyola Marymount University
     year: 2013
-  - course: BA Molecular, Cellular & Developmental Biology
+  - course: B.A. Molecular, Cellular & Developmental Biology
     institution: University of Colorado Boulder
     year: 2012
 
@@ -46,7 +46,7 @@ social:
   link: '/#contact'
 - icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: ai
-  link: https://www.researchgate.net/profile/Stephanie_Anderson22?ev=hdr_xprf&_sg=fpsiyqRSc31wKJi7hf1-JbqQwqgJbXyhkDtvuCXkiyhhyNRWM_uIovyCGl1mlJJzNbelOxLPXbNLO5ZwgS7AYJ6d
+  link: https://scholar.google.com/citations?user=2f4PMicAAAAJ&hl=en&oi=ao
 - icon: github
   icon_pack: fab
   link: https://github.com/sianderson
