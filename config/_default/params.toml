@@ -93,7 +93,7 @@ email = "siander@mit.edu"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Green Bldg", city = "Cambridge", region = "MA", postcode = "02142", country = "United States", country_code = "US"}
+address = {street = "54-1511 Massachusetts Institute of Technology <br> 77 Massachusetts Avenue", city = "Cambridge", region = "MA", postcode = "02142", country = "United States", country_code = "US"}
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
 coordinates = {latitude = "42.3604792261367", longitude = "-71.08933089526391"}
