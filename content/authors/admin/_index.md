@@ -21,7 +21,7 @@ interests:
 - Trait-based ecology
 - Thermal adaptation
 - Ecological modeling
-- Story-telling
+- Storytelling
 
 # Education to show in About widget
 education:
