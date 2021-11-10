@@ -25,7 +25,7 @@
 
 [[main]]
   name = "CV"  # Title of the link.
-  url = "files/Anderson_CV_Sept2021.pdf" 
+  url = "files/Anderson_CV_Nov2021.pdf" 
   weight = 50  # Position of the link in the navigation bar.
   
 
