@@ -53,12 +53,13 @@ social:
 - icon: linkedin
   icon_pack: fab
   link:  https://www.linkedin.com/in/stephanieianderson/
-- icon: instagram
-  icon_pack: fab
-  link: https://www.instagram.com/cellsofglass/
+#- icon: instagram
+#  icon_pack: fab
+#  link: https://www.instagram.com/cellsofglass/
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/CellsOfGlass
+  
 
 background-image: DM_Cdeb.jpg
 
