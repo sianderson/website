@@ -6,12 +6,12 @@ title: Stephanie I. Anderson
 superuser: true
 
 # Role/position/tagline
-role: Simons Foundation Postdoctoral Fellow
+role: Phytoplankton Ecologist
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Massachusetts Institute of Technology
-  url: https://web.mit.edu/
+- name: US Environmental Protection Agency
+  url: https://www.epa.gov/
 
 # Short bio (displayed in user profile at end of posts)
 #bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -58,7 +58,7 @@ social:
 #  link: https://www.instagram.com/cellsofglass/
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/CellsOfGlass
+  link: https://twitter.com/DrSIAnderson
   
 
 background-image: DM_Cdeb.jpg
@@ -78,6 +78,6 @@ highlight_name: true
 highlight_superuser: true
 ---
 
-I am a  <a href="https://www.simonsfoundation.org/grant/simons-postdoctoral-fellowships-in-marine-microbial-ecology/">Simons Foundation Postdoctoral Fellow in Marine Microbial Ecology</a> at the <a href="https://web.mit.edu/">Massachusetts Institute of Technology</a>. I work under the direction of <a href="http://ocean.mit.edu/~stephd/">Dr. Stephanie Dutkiewicz</a> examining phytoplankton thermal trait differentiation and evolution.
+I am a research ecologist at the <a href="https://www.epa.gov/">United States Environmental Protection Agency</a> where my research focuses on Harmful Algal Blooms (HABs) and the environmental factors which drive them. 
 
-For my doctoral dissertation with <a href="https://web.uri.edu/rynearson-lab/">Dr. Tatiana Rynearson</a> at the <a href="https://web.uri.edu/gso/">University of Rhode Island Graduate School of Oceanography</a>, I examined the abiotic factors that shape phytoplankton communities. I employed experimental, molecular, and modeling approaches to investigate the role of temperature in driving phytoplankton physiology, community structure, and biogeography. 
+Previously, I was a <a href="https://www.simonsfoundation.org/grant/simons-postdoctoral-fellowships-in-marine-microbial-ecology/">Simons Foundation Postdoctoral Fellow in Marine Microbial Ecology</a> at the <a href="https://web.mit.edu/">Massachusetts Institute of Technology</a>. I worked under the direction of <a href="http://ocean.mit.edu/~stephd/">Dr. Stephanie Dutkiewicz</a> examining phytoplankton thermal trait differentiation in a modeled ocean. For my doctoral dissertation with <a href="https://web.uri.edu/rynearson-lab/">Dr. Tatiana Rynearson</a> at the <a href="https://web.uri.edu/gso/">University of Rhode Island Graduate School of Oceanography</a>, I employed experimental, molecular, and modeling approaches to investigate the role of temperature in driving phytoplankton physiology, community structure, and biogeography. 

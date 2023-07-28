@@ -88,15 +88,15 @@ show_related = {book = true, page = false, post = true, project = true, publicat
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "siander@mit.edu"
+email = "anderson.stephanie@epa.gov"
 #phone = "888 888 88 88"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "54-1511 Massachusetts Institute of Technology <br> 77 Massachusetts Avenue", city = "Cambridge", region = "MA", postcode = "02142", country = "United States", country_code = "US"}
+address = {street = "27 Tarzwell Dr.", city="Narragansett", region = "RI", postcode =  "02882", country = "United States", country_code = "US"}
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "42.3604792261367", longitude = "-71.08933089526391"}
+coordinates = {latitude = "41.49409544752061", longitude = "-71.4228767707658"}
 
 # Directions for visitors to locate you.
 #directions = "Enter Building 1 and take the stairs to Office 200 on Floor 2"
