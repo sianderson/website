@@ -8,7 +8,7 @@ authors: ["**Stephanie I. Anderson**",
 "Clara Fronda",
 "Andrew D. Barton", 
 "Sophie Clayton",
-"Tatiana A. Rynearson"
+"Tatiana A. Rynearson",
 "Stephanie Dutkiewicz"
 ]
 #- "**Stephanie I. Anderson**"
