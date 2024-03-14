@@ -3,7 +3,7 @@
 title: Stephanie I. Anderson
 
 # Is this the primary user of the site?
-superuser: true
+superuser: Stephanie I. Anderson
 
 # Role/position/tagline
 role: Research Ecologist
@@ -78,6 +78,6 @@ highlight_name: true
 highlight_superuser: true
 ---
 
-I am a research ecologist at the <a href="https://www.epa.gov/">United States Environmental Protection Agency</a> where my research focuses on Harmful Algal Blooms (HABs) and the environmental factors which alter their dynamics. 
+I am a research ecologist at the <a href="https://www.epa.gov/">United States Environmental Protection Agency</a> where my research focuses on marine phytoplankton, including harmful algal bloom (HAB) species, and their community responses to anthropogenic stressors like climate change, eutrophication, and marine carbon dioxide removal (mCDR) strategies. 
 
 Previously, I was a <a href="https://www.simonsfoundation.org/grant/simons-postdoctoral-fellowships-in-marine-microbial-ecology/">Simons Foundation Postdoctoral Fellow in Marine Microbial Ecology</a> at the <a href="https://web.mit.edu/">Massachusetts Institute of Technology</a>. I worked under the direction of <a href="http://ocean.mit.edu/~stephd/">Dr. Stephanie Dutkiewicz</a> examining phytoplankton thermal trait differentiation in a modeled ocean. For my doctoral dissertation with <a href="https://web.uri.edu/rynearson-lab/">Dr. Tatiana Rynearson</a> at the <a href="https://web.uri.edu/gso/">University of Rhode Island Graduate School of Oceanography</a>, I employed experimental, molecular, and modeling approaches to investigate the role of temperature in driving phytoplankton physiology, community structure, and biogeography. 

@@ -16,7 +16,7 @@
 theme = "my_theme"
 
 # Enable users to switch between day and night mode?
-day_night = false
+day_night = true
 
 # Override the theme's font set (optional).
 #   Guide to font sets: https://wowchemy.com/docs/customization/#fonts
@@ -57,6 +57,7 @@ description = ""
 # Enable source code highlighting? true/false
 # Documentation: https://wowchemy.com/docs/writing-markdown-latex/#highlighting-options
 highlight = true
+highlight_superuser = true
 #highlight_languages = ["r"]  # Add support for highlighting additional languages
 # highlight_style = "github"  # For supported styles, see https://cdnjs.com/libraries/highlight.js/
 
