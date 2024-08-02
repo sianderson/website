@@ -29,7 +29,7 @@ education:
   - course: Ph.D. Oceanography
     institution: University of Rhode Island
     year: 2021
-  - course: Single Subject Teaching Credential
+  - course: Teaching Credential
     institution: Loyola Marymount University
     year: 2013
   - course: B.A. Molecular, Cellular & Developmental Biology
