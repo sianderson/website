@@ -7,6 +7,7 @@ light = true
 # Primary
 primary = "#296938"
 #primary = "#3EA055"
+#primary = "#f5ed0c"
 
 # Menu
 #menu_primary = "#3EA055"
@@ -15,6 +16,7 @@ menu_primary = "#296938"
 menu_text = "#fff"
 #menu_text_active = "#254117"
 menu_text_active = "#153011"
+#menu_text_active = "#f5ed0c"
 menu_title = "#fff"
 
 # Home sections
