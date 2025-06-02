@@ -5,7 +5,8 @@ name = "my_theme"
 light = true
 
 # Primary
-primary = "#296938"
+#primary = "#296938"
+primary = "#328245" #new
 #primary = "#3EA055"
 #primary = "#f5ed0c"
 

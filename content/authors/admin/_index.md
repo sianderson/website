@@ -56,9 +56,9 @@ social:
 #- icon: instagram
 #  icon_pack: fab
 #  link: https://www.instagram.com/cellsofglass/
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/DrSIAnderson
+#- icon: twitter
+#  icon_pack: fab
+#  link: https://twitter.com/DrSIAnderson
   
 
 background-image: DM_Cdeb.jpg
