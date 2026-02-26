@@ -9,7 +9,7 @@ authors: ["Daniel Killam",
 "Martha Sutula",
 "Raphe Kudela",
 "James Hagy",
-"**Stephanie Anderson**",
+"Stephanie Anderson",
 "David Senn"]
 #- "**Stephanie I. Anderson**"
 #- Tatiana A. Rynearson
