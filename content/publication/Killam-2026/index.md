@@ -11,8 +11,7 @@ authors: ["Daniel Killam",
 "James Hagy",
 "Stephanie Anderson",
 "David Senn"]
-#- "**Stephanie I. Anderson**"
-#- Tatiana A. Rynearson
+
 tags: []
 categories: []
 date: '2026-02-26'
