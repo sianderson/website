@@ -19,9 +19,9 @@ organizations:
 # Interests to show in About widget
 interests:
 - Trait-based ecology
-- Thermal adaptation
-- Ecological modeling
-- Storytelling
+- Phytoplankton
+- HABs
+- mCDR
 
 # Education to show in About widget
 education:
@@ -78,6 +78,6 @@ highlight_name: true
 highlight_superuser: true
 ---
 
-I am a Research Ecologist at the <a href="https://www.epa.gov/">United States Environmental Protection Agency</a> where my research focuses on marine algae, including harmful algal bloom (HAB) species, and their community responses to environmental variables like temperature, nutrients, and pH. 
+I am a Research Ecologist at the <a href="https://www.epa.gov/">United States Environmental Protection Agency</a> where my research focuses on marine algae, including harmful algal bloom (HAB) species, and their community responses to environmental change such as ocean warming, eutrophication, and marine carbon dioxide removal (mCDR) methods. Our collaborative projects use field data, historical observations, and models to discern how changes in ocean chemistry and physical properties may impact water quality and biological productivity. 
 
 Previously, I was a <a href="https://www.simonsfoundation.org/grant/simons-postdoctoral-fellowships-in-marine-microbial-ecology/">Simons Foundation Postdoctoral Fellow in Marine Microbial Ecology</a> at the <a href="https://web.mit.edu/">Massachusetts Institute of Technology</a>. I worked under the direction of <a href="http://ocean.mit.edu/~stephd/">Dr. Stephanie Dutkiewicz</a> examining phytoplankton thermal trait differentiation in a modeled ocean. For my doctoral dissertation with <a href="https://web.uri.edu/rynearson-lab/">Dr. Tatiana Rynearson</a> at the <a href="https://web.uri.edu/gso/">University of Rhode Island Graduate School of Oceanography</a>, I employed experimental, molecular, and modeling approaches to investigate the role of temperature in driving phytoplankton physiology, community structure, and biogeography. 
